@@ -3,12 +3,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=200&section=header&text=Hi,%20I'm%20Hilda%20Dihyan%20C%20💙&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 </p>
 
+<!-- Confetti Effect (GIF) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="100%" alt="Confetti Animation"/>
+</p>
+
 <!-- Profile Picture -->
 <p align="center">
   <img src="hield.jpg" alt="Hilda Dihyan C" width="200" style="border-radius:50%; box-shadow: 0 0 20px #00bfff;">
 </p>
 
-<!-- Typing Animation (converted to JPG preview) -->
+<!-- Typing Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00bfff&height=80&section=header&text=✨%20Graphic%20Designer%20%7C%20💻%20IT%20Learner%20%7C%20📚%20K-Drama%20Lover&fontSize=20&fontColor=ffffff" alt="Typing JPG Banner"/>
 </p>
